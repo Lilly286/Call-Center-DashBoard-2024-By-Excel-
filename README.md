@@ -21,6 +21,7 @@ Performance Summary for Selected Representative – Call share %, rank by calls,
 ## Dataset
 -> <a href="https://in.docworkspace.com/d/sIA7EwarJAbvm6MYG?sa=601.1037">DataSet</a>
 <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/49a07638-bd66-41d6-8d93-2c649e2edbd1" />
+-< <a href="https://drive.google.com/file/d/1RDhOYszbgt9ECVyQ4kftif4zBLN99X6a/view?usp=drivesdk">DashBoard Video</a>
 ## Key Questions
 How is the call center performing overall in 2024?
 
