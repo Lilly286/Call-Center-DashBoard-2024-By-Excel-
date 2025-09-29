@@ -18,5 +18,8 @@ City & Customer-wise Amount – Detailed breakdown of amounts earned per custome
 Ratings Distribution – Frequency of customer ratings from 1 to 5.
 
 Performance Summary for Selected Representative – Call share %, rank by calls, rank by amount.
-## dataset
+## Dataset
 -> <a href="https://in.docworkspace.com/d/sIA7EwarJAbvm6MYG?sa=601.1037">DataSet</a>
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/49a07638-bd66-41d6-8d93-2c649e2edbd1" />
+
+
