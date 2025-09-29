@@ -21,5 +21,53 @@ Performance Summary for Selected Representative – Call share %, rank by calls,
 ## Dataset
 -> <a href="https://in.docworkspace.com/d/sIA7EwarJAbvm6MYG?sa=601.1037">DataSet</a>
 <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/49a07638-bd66-41d6-8d93-2c649e2edbd1" />
+## Key Questions
+How is the call center performing overall in 2024?
+
+Total calls: 1,000
+
+Total amount generated: ₹96,623
+
+Total call duration: 89,850 seconds
+
+Average rating: 3.9
+
+Which months have the highest and lowest call volumes?
+
+High: April
+
+Low: December
+
+Which days of the week get the most and least calls?
+
+Most: Saturday (40 calls)
+
+Least: Monday (13 calls)
+
+What’s the gender split in different cities?
+
+Example: In Cleveland, more male callers (326) than female callers (83).
+
+Who are the top-performing representatives?
+
+By calls: R02 (218 calls)
+
+By amount: R03 & R02 (₹20.9k each)
+
+How does each city contribute to the total amount?
+
+Detailed city & customer table in the right-hand side.
+
+What percentage of calls and revenue does a specific representative handle?
+
+For R01: 19% of calls, ranked 4th in both calls & amount.
+
+How is customer satisfaction distributed?
+
+Most ratings are 4 stars (88 ratings) and 5 stars (60 ratings).
+
+Who are the top-paying customers and cities?
+
+Can be seen from the city-customer breakdown table
 
 
